@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 280px;
+}
+.text{
+    padding-right: 700px;
+}
+#F{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 400px;
+}
+#H{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
